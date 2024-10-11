@@ -1,2 +1,2 @@
-# Template for Book my show gift cards
-The gift card link is updated check out from here : https://github.com/shivannadm/Template-for-Book-my-show-gift-cards.github.io/tree/main
+# Template for Book My Show gift cards
+The gift card link is updated check out from here: https://www.figma.com/design/W7feUSTdXhs4GV7GpNH6Gv/Untitled?node-id=0-1&t=5KNrRfpmOEWWZSKO-1
